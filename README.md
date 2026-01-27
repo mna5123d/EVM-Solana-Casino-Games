@@ -7,7 +7,7 @@
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](https://ethereum.org)
 [![Stars](https://img.shields.io/github/stars/LaChance-Lab/Multi-Chain-Casino-Games?style=social)](https://github.com/LaChance-Lab/Multi-Chain-Casino-Games/stargazers)
 [![Forks](https://img.shields.io/github/forks/LaChance-Lab/Multi-Chain-Casino-Games?style=social)](https://github.com/LaChance-Lab/Multi-Chain-Casino-Games/network/members)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/lachancelab)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/jialim679)
 
 **10 Classic Casino Games • Multi-Chain Support • Provably Fair • Telegram Integration**
 
